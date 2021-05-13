@@ -6,6 +6,8 @@ html, body, #home {
 
 body {
 	background: url(../imagens2/romes-guitar7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-attachment: fixed; /*--Deixar o fundo fixo ao rolar a página--*/	
 	font-family: Helvetica,Arial, Mistral,sans-serif;
 
